@@ -1,0 +1,1 @@
+Los controladores están definidos en el proyecto, sin implementar el contenido y con explicación en comentarios.
